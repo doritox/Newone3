@@ -5,3 +5,26 @@
   font-family: "Poppins", sans-serif;
   margin: 0;
 }
+body {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+span {
+  color: blue;
+}
+.my-class {
+  color: firebrick;
+}
+span#my-id {
+  color: teal;
+}
+span.my-class {
+  color: khaki;
+}
+span:hover {
+  color: lightcoral;
+}
+span[name="flue"] {
+  color: yellowgreen;
+}
