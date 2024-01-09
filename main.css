@@ -28,3 +28,16 @@ span:hover {
 span[name="flue"] {
   color: yellowgreen;
 }
+#back {
+  background-color: orange;
+  color: black;
+}
+.back1 {
+  background-color: teal;
+  color: white;
+  transition: all 0.8s;
+}
+.back1:hover {
+  background-color: yellow;
+  color: black;
+}
